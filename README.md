@@ -27,7 +27,6 @@ The goal was simple: turn training data into business action.
 ## Tools Used
 
 - **Power BI** – for data modeling and dashboard development
-- **Excel** – for some basic data prep and simulations
 - **Dataset** – Simulated HR skill matrix data
 
 ---
